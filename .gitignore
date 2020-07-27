@@ -1,0 +1,4 @@
+results/*
+img/*
+*.npy
+*.log
